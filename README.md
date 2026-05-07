@@ -127,3 +127,5 @@ Aspiring Data Analyst
 GitHub Profile
 </a>
 </p>
+
+<p align="center">💡 <i>Learning by Doing | Data Analytics Project</i></p>
