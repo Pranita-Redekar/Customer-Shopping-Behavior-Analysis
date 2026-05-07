@@ -114,18 +114,4 @@ dashboard creation, and business reporting to generate actionable insights.
 </ul>
 
 <hr>
-
-<h2>👩‍💻 Author</h2>
-
-<p>
-<b>Pranita Redekar</b><br>
-Aspiring Data Analyst
-</p>
-
-<p>
-<a href="https://github.com/Pranita-Redekar" target="_blank">
-GitHub Profile
-</a>
-</p>
-
 <p align="center">💡 <i>Learning by Doing | Data Analytics Project</i></p>
