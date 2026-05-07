@@ -28,9 +28,6 @@ dashboard creation, and business reporting to generate actionable insights.
 <ul>
   <li>Python</li>
   <li>Pandas</li>
-  <li>NumPy</li>
-  <li>Matplotlib</li>
-  <li>Seaborn</li>
   <li>PostgreSQL</li>
   <li>SQL</li>
   <li>Power BI</li>
