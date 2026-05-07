@@ -1,24 +1,30 @@
-<h1 align="center">📊 Data Analytics Project</h1>
+<h1 align="center">📊 Customer Behavior Analytics Dashboard</h1>
+
+<p align="center">
+End-to-End Data Analytics Project using Python, PostgreSQL, SQL, and Power BI
+</p>
+
+<hr>
 
 <h2>📌 Overview</h2>
+
 <p>
-This project demonstrates an end-to-end Data Analytics workflow using Python, PostgreSQL, and Power BI.
-The project includes data loading, cleaning, exploratory data analysis (EDA), SQL analysis,
-dashboard creation, and reporting.
+This project focuses on analyzing customer purchasing behavior using Python, PostgreSQL, and Power BI.
+The project includes data loading, data cleaning, exploratory data analysis (EDA), SQL analysis,
+dashboard creation, and business reporting to generate actionable insights.
 </p>
 
 <hr>
 
 <h2>📂 Dataset</h2>
-<ul>
-  <li><b>Dataset Source:</b> Add Dataset Link Here</li>
-  <li><b>Format:</b> CSV / Excel</li>
-  <li><b>Description:</b> Business-related dataset containing sales, customers, products, and transaction details.</li>
-</ul>
+<p>
+👉 <a href="https://github.com/Pranita-Redekar/Customer-Behavior-Analysis/tree/main/Dataset">View / Download Dataset</a>
+</p>
 
 <hr>
 
 <h2>🛠️ Tools & Technologies</h2>
+
 <ul>
   <li>Python</li>
   <li>Pandas</li>
@@ -33,76 +39,84 @@ dashboard creation, and reporting.
 
 <hr>
 
-<h2>⚙️ Project Steps</h2>
+<h2>⚙️ Project Workflow</h2>
 
-<h3>1. Data Loading</h3>
+<h3>1️⃣ Data Loading</h3>
+
 <ul>
   <li>Imported dataset using Python</li>
-  <li>Loaded data into Pandas DataFrame</li>
-  <li>Checked dataset structure and data types</li>
+  <li>Loaded dataset into Pandas DataFrame</li>
+  <li>Checked structure, null values, and data types</li>
 </ul>
 
-<h3>2. Data Cleaning</h3>
+<h3>2️⃣ Data Cleaning</h3>
+
 <ul>
-  <li>Handled missing values</li>
-  <li>Removed duplicate records</li>
-  <li>Fixed inconsistent data formats</li>
+  <li>Handled missing and duplicate values</li>
+  <li>Standardized inconsistent data formats</li>
   <li>Converted columns into proper data types</li>
 </ul>
 
-<h3>3. Exploratory Data Analysis (EDA)</h3>
+<h3>3️⃣ Exploratory Data Analysis (EDA)</h3>
+
 <ul>
-  <li>Analyzed trends and patterns</li>
-  <li>Created visualizations and charts</li>
-  <li>Generated statistical summaries</li>
+  <li>Analyzed customer purchase behavior</li>
+  <li>Studied category-wise sales and revenue trends</li>
+  <li>Explored age-group performance and subscription trends</li>
+  <li>Created charts and statistical summaries</li>
 </ul>
 
-<h3>4. SQL Analysis (PostgreSQL)</h3>
+<h3>4️⃣ SQL Analysis (PostgreSQL)</h3>
+
 <ul>
   <li>Imported cleaned dataset into PostgreSQL</li>
-  <li>Performed SQL queries for insights</li>
-  <li>Used JOINs, GROUP BY, Aggregate Functions, and Subqueries</li>
+  <li>Executed SQL queries for business insights</li>
+  <li>Used JOINs, GROUP BY, Aggregate Functions, Window Functions, and Subqueries</li>
 </ul>
 
-<h3>5. Power BI Dashboard</h3>
-<ul>
-  <li>Built an interactive dashboard</li>
-  <li>Added KPIs, filters, and slicers</li>
-  <li>Created business insight visualizations</li>
-</ul>
+<h3>5️⃣ Power BI Dashboard</h3>
 
-<h3>6. Reporting</h3>
 <ul>
-  <li>Summarized findings and insights</li>
-  <li>Prepared final business report</li>
+  <li>Built an interactive Customer Behavior Dashboard</li>
+  <li>Added KPI cards and slicers</li>
+  <li>Created category-wise sales and revenue charts</li>
+  <li>Added filters for gender, category, subscription, and shipping type</li>
 </ul>
 
 <hr>
 
-<h2>📈 Output</h2>
+<h2>📊 Dashboard Insights</h2>
+
 <ul>
-  <li>Cleaned Dataset</li>
-  <li>SQL Analysis Results</li>
-  <li>Interactive Power BI Dashboard</li>
-  <li>Business Insights Report</li>
+  <li><b>Total Customers:</b> 3.9K</li>
+  <li><b>Average Purchase Amount:</b> $59.76</li>
+  <li><b>Average Review Rating:</b> 3.75</li>
+  <li><b>Top Performing Category:</b> Clothing</li>
+  <li><b>Non-Subscribers:</b> 73%</li>
+  <li><b>Highest Revenue Contribution:</b> Young Adults</li>
 </ul>
+
+<hr>
+
+<h2>📷 Dashboard Preview & Output</h2>
+
+<p>
+👉 <a href="https://github.com/Pranita-Redekar/Customer-Behavior-Analysis/tree/main/Output">View / Download Output</a>
+</p>
+
 
 <hr>
 
 <h2>✅ Results</h2>
+
 <ul>
-  <li>Identified business trends and patterns</li>
-  <li>Generated actionable insights</li>
-  <li>Created a complete analytics workflow project</li>
+  <li>Identified customer behavior and purchasing trends</li>
+  <li>Generated business insights using SQL and Power BI</li>
+  <li>Built an end-to-end analytics solution</li>
+  <li>Improved reporting and dashboard visualization skills</li>
 </ul>
 
 <hr>
-
-<h2>📷 Dashboard Preview</h2>
-<p>Add dashboard screenshots here</p>
-
-<hr>
-
 
 <h2>👩‍💻 Author</h2>
 
@@ -112,5 +126,7 @@ Aspiring Data Analyst
 </p>
 
 <p>
-<a href="https://github.com/Pranita-Redekar">GitHub Profile</a>
+<a href="https://github.com/Pranita-Redekar" target="_blank">
+GitHub Profile
+</a>
 </p>
