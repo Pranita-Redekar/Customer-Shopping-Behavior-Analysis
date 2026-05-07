@@ -1,4 +1,4 @@
-<h1 align="center">📊 Customer Behavior Analytics Dashboard</h1>
+<h1 align="center">📊 Customer Shopping Behavior Analysis </h1>
 
 <p align="center">
 End-to-End Data Analytics Project using Python, PostgreSQL, SQL, and Power BI
